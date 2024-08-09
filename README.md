@@ -1,4 +1,4 @@
-### Hello! I'm Michelle. Welcome to my github page! 😄
+### Hello, I'm Michelle! Welcome to my github page! 😄
 
 <!--
 **mhn098/mhn098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
