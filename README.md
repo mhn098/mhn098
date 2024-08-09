@@ -3,7 +3,7 @@
 ### I'm primarily a front end developer and designer studying full stack development. I enjoy working on random projects in my free time!
 
 ### Languages, Tools, and Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,sqlite,figma,canva,angular,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,sqlite,figma,angular,html,css,ts)](https://skillicons.dev)
 <!--
 
 
