@@ -13,7 +13,7 @@ In my free time, I enjoy exploring scenic routes, baking anything and everything
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,ts,js)](https://skillicons.dev)
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,fastapi,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,fastapi,postgres,express)](https://skillicons.dev)
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,java,c)](https://skillicons.dev)
 ### Familiar
