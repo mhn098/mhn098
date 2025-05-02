@@ -15,9 +15,9 @@ In my free time, I enjoy exploring scenic routes, baking anything and everything
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sqlite,fastapi,postgres,express)](https://skillicons.dev)
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,figma,java,c)](https://skillicons.dev)
 ### Familiar
-NumPy, Pandas
+NumPy, Pandas, IntelliJ IDEA, Vim
 
 
 <!--
